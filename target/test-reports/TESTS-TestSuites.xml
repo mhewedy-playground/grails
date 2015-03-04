@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Muhammads-MacBook-Pro.local" id="0" name="QuoteServiceSpec" package="qotd" tests="1" time="2.423" timestamp="2015-03-03T05:41:52">
+      <properties />
+
+      <testcase classname="qotd.QuoteServiceSpec" name="static quote service always return quiche quote" time="2.368" />
+
+      <system-out><![CDATA[--Output from static quote service always return quiche quote--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from static quote service always return quiche quote--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
