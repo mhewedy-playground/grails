@@ -1,1 +1,0 @@
---Output from static quote service always return quiche quote--
