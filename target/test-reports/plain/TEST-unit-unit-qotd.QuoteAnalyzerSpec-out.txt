@@ -1,0 +1,7 @@
+--Output from Total number of quotes[0]--
+--Output from Total number of quotes[1]--
+--Output from Total number of quotes[2]--
+--Output from Number of quotes per author[0]--
+--Output from Number of quotes per author[1]--
+--Output from Average characters in quotes[0]--
+--Output from Average characters in quotes[1]--

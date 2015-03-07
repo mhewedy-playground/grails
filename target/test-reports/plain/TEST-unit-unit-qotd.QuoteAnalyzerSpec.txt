@@ -1,0 +1,28 @@
+Testsuite: qotd.QuoteAnalyzerSpec
+Tests run: 7, Failures: 0, Errors: 0, Time elapsed: 0.006 sec
+------------- Standard Output ---------------
+--Output from Total number of quotes[0]--
+--Output from Total number of quotes[1]--
+--Output from Total number of quotes[2]--
+--Output from Number of quotes per author[0]--
+--Output from Number of quotes per author[1]--
+--Output from Average characters in quotes[0]--
+--Output from Average characters in quotes[1]--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Total number of quotes[0]--
+--Output from Total number of quotes[1]--
+--Output from Total number of quotes[2]--
+--Output from Number of quotes per author[0]--
+--Output from Number of quotes per author[1]--
+--Output from Average characters in quotes[0]--
+--Output from Average characters in quotes[1]--
+------------- ---------------- ---------------
+
+Testcase: Total number of quotes[0] took 0.001 sec
+Testcase: Total number of quotes[1] took 0 sec
+Testcase: Total number of quotes[2] took 0.001 sec
+Testcase: Number of quotes per author[0] took 0 sec
+Testcase: Number of quotes per author[1] took 0 sec
+Testcase: Average characters in quotes[0] took 0.001 sec
+Testcase: Average characters in quotes[1] took 0 sec

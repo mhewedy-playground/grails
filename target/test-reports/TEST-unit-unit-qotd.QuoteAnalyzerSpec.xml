@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Muhammads-MacBook-Pro.local" name="qotd.QuoteAnalyzerSpec" tests="7" time="0.006" timestamp="2015-03-07T21:40:23">
+  <properties />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes[0]" time="0.001" />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes[1]" time="0.0" />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes[2]" time="0.001" />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Number of quotes per author[0]" time="0.0" />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Number of quotes per author[1]" time="0.0" />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Average characters in quotes[0]" time="0.001" />
+  <testcase classname="qotd.QuoteAnalyzerSpec" name="Average characters in quotes[1]" time="0.0" />
+  <system-out><![CDATA[--Output from Total number of quotes[0]--
+--Output from Total number of quotes[1]--
+--Output from Total number of quotes[2]--
+--Output from Number of quotes per author[0]--
+--Output from Number of quotes per author[1]--
+--Output from Average characters in quotes[0]--
+--Output from Average characters in quotes[1]--
+]]></system-out>
+  <system-err><![CDATA[--Output from Total number of quotes[0]--
+--Output from Total number of quotes[1]--
+--Output from Total number of quotes[2]--
+--Output from Number of quotes per author[0]--
+--Output from Number of quotes per author[1]--
+--Output from Average characters in quotes[0]--
+--Output from Average characters in quotes[1]--
+]]></system-err>
+</testsuite>

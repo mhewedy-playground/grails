@@ -1,0 +1,190 @@
+2015-03-08 00:36:43,823 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+expected == quoteAnalyzier.averageQuoteLenth
+|        |  |              |
+23.6     |  |              23.5
+         |  qotd.QuoteAnalyzer@1bfa463a
+         false
+
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:36:43,830 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+expected == quoteAnalyzier.averageQuoteLenth
+|        |  |              |
+23.6     |  |              23.5
+         |  qotd.QuoteAnalyzer@1bfa463a
+         false
+
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:36:43,832 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+expected == quoteAnalyzier.averageQuoteLenth
+|        |  |              |
+23.6     |  |              23.5
+         |  qotd.QuoteAnalyzer@1bfa463a
+         false
+
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:36:43,832 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+expected == quoteAnalyzier.averageQuoteLenth
+|        |  |              |
+23.6     |  |              23.5
+         |  qotd.QuoteAnalyzer@1bfa463a
+         false
+
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:36:43,837 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+expected == quoteAnalyzier.averageQuoteLenth
+|        |  |              |
+23.6     |  |              23.5
+         |  qotd.QuoteAnalyzer@1bfa463a
+         false
+
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:36:43,837 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+expected == quoteAnalyzier.averageQuoteLenth
+|        |  |              |
+23.6     |  |              23.5
+         |  qotd.QuoteAnalyzer@1bfa463a
+         false
+
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,044 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at org.springsource.loaded.ri.ReloadedTypeInvoker$2.invoke(ReloadedTypeInvoker.java:122)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1299)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,054 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,054 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,055 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,056 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,056 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,059 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at org.springsource.loaded.ri.ReloadedTypeInvoker$2.invoke(ReloadedTypeInvoker.java:122)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1299)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,059 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,060 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,060 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,061 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:34,061 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: it for class: qotd.QuoteAnalyzer
+	at qotd.QuoteAnalyzer$$EP6HhV6u.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:56,603 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhb5s.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at org.springsource.loaded.ri.ReloadedTypeInvoker$2.invoke(ReloadedTypeInvoker.java:122)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1299)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:56,604 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhb5s.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:56,604 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhb5s.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:56,604 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhb5s.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:56,604 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhb5s.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:37:56,604 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhb5s.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:30,519 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6HhjwG.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at org.springsource.loaded.ri.ReloadedTypeInvoker$2.invoke(ReloadedTypeInvoker.java:122)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1299)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:30,519 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6HhjwG.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:30,519 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6HhjwG.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:30,519 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6HhjwG.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:30,520 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6HhjwG.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:30,520 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6HhjwG.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:48,508 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhoca.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at org.springsource.loaded.ri.ReloadedTypeInvoker$2.invoke(ReloadedTypeInvoker.java:122)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1299)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:48,509 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhoca.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:48,509 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhoca.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:48,509 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhoca.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:48,509 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhoca.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
+2015-03-08 00:38:48,509 [main] ERROR StackTrace  - Full Stack Trace:
+java.lang.NullPointerException: Cannot invoke method div() on null object
+	at qotd.QuoteAnalyzer$$EP6Hhoca.getAverageQuoteLenth(QuoteAnalyzer.groovy:29)
+	at qotd.QuoteAnalyzerSpec.Average characters in quotes(QuoteAnalyzerSpec.groovy:52)
