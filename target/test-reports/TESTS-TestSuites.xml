@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
   <testsuite errors="0" failures="0" hostname="Muhammads-MacBook-Pro.local" id="0" name="QuoteServiceSpec" package="qotd" tests="1" time="2.423" timestamp="2015-03-03T05:41:52">
@@ -13,3 +14,56 @@
 
   </testsuite>
 </testsuites>
+=======
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Muhammads-MacBook-Pro.local" id="0" name="QuoteAnalyzerSpec" package="qotd" tests="7" time="0.006" timestamp="2015-03-07T21:40:23">
+      <properties />
+
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes[0]" time="0.001" />
+
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes[1]" time="0.0" />
+
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Total number of quotes[2]" time="0.001" />
+
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Number of quotes per author[0]" time="0.0" />
+
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Number of quotes per author[1]" time="0.0" />
+
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Average characters in quotes[0]" time="0.001" />
+
+      <testcase classname="qotd.QuoteAnalyzerSpec" name="Average characters in quotes[1]" time="0.0" />
+
+      <system-out><![CDATA[--Output from Total number of quotes[0]--
+--Output from Total number of quotes[1]--
+--Output from Total number of quotes[2]--
+--Output from Number of quotes per author[0]--
+--Output from Number of quotes per author[1]--
+--Output from Average characters in quotes[0]--
+--Output from Average characters in quotes[1]--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Total number of quotes[0]--
+--Output from Total number of quotes[1]--
+--Output from Total number of quotes[2]--
+--Output from Number of quotes per author[0]--
+--Output from Number of quotes per author[1]--
+--Output from Average characters in quotes[0]--
+--Output from Average characters in quotes[1]--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Muhammads-MacBook-Pro.local" id="1" name="QuoteServiceSpec" package="qotd" tests="1" time="0.063" timestamp="2015-03-07T21:40:23">
+      <properties />
+
+      <testcase classname="qotd.QuoteServiceSpec" name="static quote service always return quiche quote" time="0.06" />
+
+      <system-out><![CDATA[--Output from static quote service always return quiche quote--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from static quote service always return quiche quote--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
+>>>>>>> ea6ea9a8c896001157aafe8869e19b49e85b3f43

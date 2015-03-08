@@ -1,0 +1,32 @@
+Quote report
+------------
+
+Total: 32
+
+Number of quotes by author:
+		
+ unknown                                                                                                                                               6
+ Edsger Dijkstra                                                                                                                                       3
+ Doug Linder, systems administrator                                                                                                                    1
+ Edsger Dijkstra, computer scientist                                                                                                                   1
+ Bjarne Stroustrup, developer of the C++ programming language                                                                                          1
+ Bill Clinton, former President of the United States                                                                                                   1
+ Bill Bryson, author, from Notes from a Big Country                                                                                                    1
+ Eric S. Raymond, programmer and advocate of open source software, from The Cathedral and the Bazaar                                                   1
+ Steve McConnell, software engineer and author, from Code Complete                                                                                     1
+ Charles Antony Richard Hoare, computer scientist                                                                                                      1
+ Nathaniel S. Borenstein, computer scientist                                                                                                           1
+ Bill Gates, co-founder of Microsoft Corporation                                                                                                       1
+ much more.                                                                                                                                            1
+ Harold Abelson and Gerald Jay Sussman, computer scientists and authors, from The Structure and Interpretation of Computer Programs                    1
+ a language which combines the flexibility of assembly language with the power of assembly language.                                                   1
+ Tom Cargill, object-oriented programming expert at Bell Labs                                                                                          1
+ John Carmack, computer game programmer                                                                                                                1
+ Jon Bently and M. Douglas McIlroy, both computer scientists at Bell Labs                                                                              1
+ Erwin Dieterich, programmer                                                                                                                           1
+ Larry Wall, developer of the Perl language                                                                                                            1
+ Roy Carlson, University of Wisconsin                                                                                                                  1
+ Alan Cooper, software author, from The Inmates are Running the Asylum                                                                                 1
+ Bjarne Stroustrup                                                                                                                                     1
+ Charles Antony Richard Hoare                                                                                                                          1
+ Eric S. Raymond                                                                                                                                       1
